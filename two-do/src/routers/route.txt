@@ -1,3 +1,0 @@
-    '/auth/google',
-  '/auth/callback', --->  /auth/google2
-      '/auth/google2',
