@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewjmead/task-manager-api.git"
+    "url": "git+https://github.com/EaswarDSharma/two-do-backend.git"
   },
   "bugs": {
-    "url": "https://github.com/andrewjmead/task-manager-api/issues"
+    "url": "https://github.com/EaswarDSharma/two-do-backend/issues"
   },
-  "homepage": "https://github.com/andrewjmead/task-manager-api#readme"
+  "homepage": "https://github.com/EaswarDSharma/two-do-backend#readme"
 }
